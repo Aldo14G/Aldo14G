@@ -42,7 +42,7 @@ Sitio de librería y espacio cultural en Monterrey: catálogo con búsqueda inte
 
 ![La Escuela de Atenas de Rafael recreada en pixel art, con circuitos dorados y medallón borromeo suspendido del ápice](assets/academus.svg)
 
-*La academia como imagen de este perfil: el conocimiento se construye en común, se verifica y se vuelve a construir — del fresco al píxel.*
+*La academia como imagen de este perfil: al centro Platón (barba blanca, dedo al cielo) y Aristóteles (mano a la tierra); abajo Diógenes tendido y el pensador sobre su bloque; a los lados las escuelas trabajando — del fresco al píxel.*
 
 - Traducciones técnicas de IA con control editorial (Vibe Coding, desarrollo guiado por especificaciones, Agent Skills, SKILL.state de Google y Purdue).
 - IA generativa (Google Cloud), fluidez en IA (Anthropic), Fundamentos de Datos (Platzi).
