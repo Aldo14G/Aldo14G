@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 120" role="img" aria-label="Greca griega con nudo borromeo al centro">
+  <defs>
+    <pattern id="grecaF" width="48" height="26" patternUnits="userSpaceOnUse">
+      <path d="M2 24 H46 V6 H14 V18 H32" fill="none" stroke="#8f7d5a" stroke-width="5"/>
+    </pattern>
+  </defs>
+  <rect y="0" width="1600" height="26" fill="url(#grecaF)"/>
+  <rect y="94" width="1600" height="26" fill="url(#grecaF)"/>
+  <g fill="none" stroke-width="4">
+    <circle cx="786" cy="52" r="16" stroke="#a83a2c"/>
+    <circle cx="814" cy="52" r="16" stroke="#8f7d5a"/>
+    <circle cx="800" cy="68" r="16" stroke="#155b83"/>
+  </g>
+</svg>

@@ -1,7 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1d3b34&height=200&section=header&text=AGORA.EXE&fontSize=54&fontColor=f3e8d5&desc=Traductor%20%C2%B7%20Software%20%C2%B7%20Episteme&descSize=18&descAlignY=62" alt="AGORA.EXE — Traductor, Software, Episteme" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
+  <img src="assets/banner-light.svg" alt="Columnata de la Escuela de Atenas atravesada por circuitos posthumanos, con el nudo borromeo en el frontón" width="100%"/>
+</picture>
+
+# Aldo Giovanni Martínez Pineda
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&color=1d3b34&center=true&lines=Traductor+t%C3%A9cnico;Software+engineer;Epistemolog%C3%ADa+aplicada" alt="Traductor técnico, software engineer, epistemología aplicada"/>
+
+**Traductor técnico · Software engineer · Epistemología aplicada**
+
 </div>
 
 > Aldo Giovanni Martínez Pineda — convierto información compleja en software consultable, con trazabilidad y evidencia: catálogos institucionales, productos de datos abiertos y sistemas de traducción con control editorial.
@@ -51,4 +58,4 @@ Sitio de librería y espacio cultural en Monterrey: catálogo con búsqueda inte
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1d3b34&height=110&section=footer" alt="" width="100%"/>
+<img src="assets/footer-strip.svg" alt="Greca griega con nudo borromeo al centro" width="100%"/>
