@@ -28,8 +28,8 @@ Sitio de librería y espacio cultural en Monterrey: catálogo con búsqueda inte
 
 | Proyecto | Qué es | Estado |
 |---|---|---|
-| [Librería Itinerante y Más](https://github.com/Aldo14G/Itinerante) | Destacado arriba: librería con catálogo RAG, agenda y visita. | ![Publicado](https://img.shields.io/badge-Publicado-1d3b34?style=flat-square) |
-| [DatosAbiertos NL 2026](https://github.com/Aldo14G/DatosAbiertos2026-v3) | Datos abiertos de Nuevo León evaluados en siete dimensiones de ISO/IEC 25012, con metodología y resultados consultables. ![Estrellas](https://img.shields.io/github/stars/Aldo14G/DatosAbiertos2026-v3?style=social) [Demo](https://datos-abiertos-nl-2026.web.app/) | ![Publicado](https://img.shields.io/badge-Publicado-1d3b34?style=flat-square) |
+| [Librería Itinerante y Más](https://github.com/Aldo14G/Itinerante) | Destacado arriba: librería con catálogo RAG, agenda y visita. | ![Publicado](https://img.shields.io/badge/Publicado-1d3b34?style=flat-square) |
+| [DatosAbiertos NL 2026](https://github.com/Aldo14G/DatosAbiertos2026-v3) | Datos abiertos de Nuevo León evaluados en siete dimensiones de ISO/IEC 25012, con metodología y resultados consultables. ![Estrellas](https://img.shields.io/github/stars/Aldo14G/DatosAbiertos2026-v3?style=social) [Demo](https://datos-abiertos-nl-2026.web.app/) | ![Publicado](https://img.shields.io/badge/Publicado-1d3b34?style=flat-square) |
 
 ## `STACK.SYS` — con lo que trabajo
 
