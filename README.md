@@ -54,6 +54,12 @@ Sitio de librería y espacio cultural en Monterrey: catálogo con búsqueda inte
 - Sin insignias sin emisor, sin métricas vanidosas, sin widgets que se rompen.
 - El resto del trabajo vive en repositorios privados.
 
+## `HORIZONTE` — dónde miro
+
+![El caminante sobre el mar de nubes de Friedrich recreado en pixel art, con un hilo dorado en la niebla](assets/wanderer.svg)
+
+*El caminante ante la niebla: verificar antes de afirmar también es mirar lejos — del lienzo al píxel.*
+
 <details>
 <summary><code>CONTACTO.EXE</code> — contexto</summary>
 
