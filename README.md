@@ -1,57 +1,65 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aldo.G</h1>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldo14g&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="aldo14g's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=aldo14g&theme=nightowl&hide_border=true&cache_seconds=86400" alt="aldo14g's GitHub Streak" width="49%" />
+  <img src="assets/hero.gif" alt="Ilustración pixel art: escritorio retro con un monitor CRT que muestra un diagrama de nudo borromeo, un segundo monitor con código, una lámpara y plantas" width="100%" />
+</p>
+
+<h1 align="center">Hola, soy Aldo.G</h1>
+
+<p align="center">
+  Proyectos de datos y web con Python, TypeScript y Next.js.<br>
+  Aquí están mis repositorios públicos, con su stack y su sitio publicado.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo14g&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/aldog-mtz-pineda"><img src="https://img.shields.io/badge/LinkedIn-aldog--mtz--pineda-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+### Repositorios
+
+| Repo | Stack | Sitio |
+|---|---|---|
+| [copiloto-comercial](https://github.com/Aldo14G/copiloto-comercial) | Python · Streamlit · Claude | [copiloto-comercial-aldo.streamlit.app](https://copiloto-comercial-aldo.streamlit.app/) |
+| [DatosAbiertos2026-v3](https://github.com/Aldo14G/DatosAbiertos2026-v3) | Python · pandas · Streamlit · Plotly | [datos-abiertos-nl-2026.web.app](https://datos-abiertos-nl-2026.web.app/) |
+| [Itinerante](https://github.com/Aldo14G/Itinerante) | Next.js · Firebase Data Connect · Genkit | — |
+| [LangGraph-](https://github.com/Aldo14G/LangGraph-) | Python · LangGraph · [plantilla LangChain](https://github.com/langchain-ai/data-enrichment) | — |
+
+### Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" title="Plotly" width="36" height="36" /> <img src="https://cdn.simpleicons.org/latex" alt="LaTeX" title="LaTeX" width="36" height="36" /> <img src="https://cdn.simpleicons.org/claude" alt="Claude Code" title="Claude Code" width="36" height="36" />
+</p>
+
+<p align="center"><sub>
+Python · TypeScript · JavaScript · SQL<br>
+Next.js · React · Firebase · Supabase · PostgreSQL<br>
+pandas · Power BI · LaTeX · Claude Code
+</sub></p>
+
+### Actividad
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aldo14g&show_icons=true&hide_border=true&cache_seconds=86400&disable_animations=true&bg_color=0d1117&title_color=e8a33d&icon_color=7fb069&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aldo14g&show_icons=true&hide_border=true&cache_seconds=86400&disable_animations=true&bg_color=ffffff&title_color=b7791f&icon_color=2f855a&text_color=24292f" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aldo14g&show_icons=true&hide_border=true&cache_seconds=86400&disable_animations=true&bg_color=0d1117&title_color=e8a33d&icon_color=7fb069&text_color=c9d1d9" alt="Estadísticas de GitHub de aldo14g" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aldo14g&hide_border=true&disable_animations=true&background=0d1117&ring=e8a33d&fire=e8a33d&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=e8a33d&sideLabels=7fb069&dates=8b949e&stroke=30363d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aldo14g&hide_border=true&disable_animations=true&background=ffffff&ring=b7791f&fire=b7791f&currStreakNum=24292f&sideNums=24292f&currStreakLabel=b7791f&sideLabels=2f855a&dates=57606a&stroke=d0d7de" />
+    <img src="https://streak-stats.demolab.com/?user=aldo14g&hide_border=true&disable_animations=true&background=0d1117&ring=e8a33d&fire=e8a33d&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=e8a33d&sideLabels=7fb069&dates=8b949e&stroke=30363d" alt="Racha de contribuciones de aldo14g" width="49%" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aldo14g&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aldo.G's GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo14g&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&disable_animations=true&bg_color=0d1117&title_color=e8a33d&icon_color=7fb069&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo14g&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&disable_animations=true&bg_color=ffffff&title_color=b7791f&icon_color=2f855a&text_color=24292f" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo14g&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&disable_animations=true&bg_color=0d1117&title_color=e8a33d&icon_color=7fb069&text_color=c9d1d9" alt="Lenguajes más usados de aldo14g" width="49%" />
+  </picture>
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aldo14g&theme=nightowl&radius=10" alt="aldo14g's Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldo14G/Aldo14G/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldo14G/Aldo14G/output/github-snake.svg" />
+    <img alt="Serpiente que recorre la gráfica de contribuciones de Aldo14G" src="https://raw.githubusercontent.com/Aldo14G/Aldo14G/output/github-snake.svg" />
+  </picture>
 </p>
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<div align="center">
-  <!---->
-</div>
-
-<p align="center"><sub>Aldo.G · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
