@@ -1,0 +1,40 @@
+name: snake
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # diario, 00:17 hora de Ciudad de México
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generar SVG de la serpiente
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#b7791f
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#e8a33d
+
+      - name: Publicar en la rama output
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          mkdir -p /tmp/snake && cp dist/*.svg /tmp/snake/
+          cd /tmp/snake
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "snake: actualiza SVG"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git" output
